@@ -21,6 +21,4 @@ This modifications are only for 9XR (non PRO). The 9XR-PRO does not need this mo
 
 ## XJT Mod
 
-Note that 
-
 ## DJT Mod
