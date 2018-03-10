@@ -13,3 +13,14 @@ http://diydrones.com/forum/topics/amp-to-frsky-x8r-sport-converter
 
 https://github.com/martinbudden/betaflight
 https://github.com/cleanflight
+
+
+# MODs for 9XR
+
+This modifications are only for 9XR (non PRO). The 9XR-PRO does not need this modification, as it already have a Serial Port available in the Futaba connector
+
+## XJT Mod
+
+Note that 
+
+## DJT Mod
