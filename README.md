@@ -1,6 +1,6 @@
 # MAVLink FrSky SmartPort
 
-MAVLink Telemetry desigend for Turnigy 9XR (non PRO).
+MAVLink Telemetry designed for Turnigy 9XR (non PRO).
 
 ### Modified from:
 
