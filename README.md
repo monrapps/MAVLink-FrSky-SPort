@@ -15,10 +15,10 @@ https://github.com/martinbudden/betaflight
 https://github.com/cleanflight
 
 
-# MODs for 9XR
+## MODs for 9XR
 
-This modifications are only for 9XR (non PRO). The 9XR-PRO does not need this modification, as it already have a Serial Port available in the Futaba connector
+These modifications are only for 9XR (non PRO). The 9XR-PRO does not need this modification, as it already have a Serial Port available on the Futaba connector
 
-## XJT Mod
+### XJT Mod
 
-## DJT Mod
+### DJT Mod
