@@ -13,7 +13,7 @@ http://diydrones.com/forum/topics/amp-to-frsky-x8r-sport-converter
 
 https://github.com/martinbudden/betaflight
 
-https://github.com/cleanflight
+https://github.com/cleanflight/cleanflight
 
 
 ## MODs for 9XR
