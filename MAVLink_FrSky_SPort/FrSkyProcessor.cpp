@@ -64,7 +64,7 @@ void FrSkyProcessor::process(const MavlinkProcessor::MavlinkTelemetry& mav_telem
         uint32_t temp;
         switch (++gps_index % gps_sensor_max) {
         case 0:
-          sendPackage(DATA_FRAME, FR_ID_SPEED, mav_telemetry.gps_speed * 36 / 1000);  // Not Working
+          sendPackage(DATA_FRAME, FR_ID_SPEED, mav_telemetry.gps_speed * 36 / 1000);  // Not Working wrong offset
           break;
         case 1:
           int32_t gpsLatitude;
