@@ -28,7 +28,7 @@ FR_ID_T2, mav_telemetry.gps_satellites_visible
 
 FR_ID_A3_FIRST, mav_telemetry.gps_speed * 36 / 1000
 
-FR_ID_A4_FIRST, mav_telemetry.battery_remaining)
+FR_ID_A4_FIRST, mav_telemetry.battery_remaining
 
 ### Modified from:
 
